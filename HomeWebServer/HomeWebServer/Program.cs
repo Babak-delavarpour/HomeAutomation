@@ -16,10 +16,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
-
+///app.UseHttpsRedirection();
+app.MapGet("/", context =>
+{
+    context.Response.Redirect("/default.html");
+    return Task.CompletedTask;
+});
 app.UseAuthorization();
 
 app.MapControllers();
-
+app.UseStaticFiles();
 app.Run();

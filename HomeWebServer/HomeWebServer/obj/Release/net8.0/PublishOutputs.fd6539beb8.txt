@@ -1,0 +1,11 @@
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\HomeWebServer.exe
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\HomeWebServer.dll
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\HomeWebServer.deps.json
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\HomeWebServer.runtimeconfig.json
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\HomeWebServer.pdb
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
