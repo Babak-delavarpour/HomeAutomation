@@ -31,3 +31,4 @@ D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\
 D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\HomeWebServer.pdb
 D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\HomeWebServer.genruntimeconfig.cache
 D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\obj\Release\net8.0\ref\HomeWebServer.dll
+D:\_githubProjects\Babak-delavarpour\HomeAutomation\HomeWebServer\HomeWebServer\bin\Release\net8.0\HomeWebServer.staticwebassets.runtime.json
