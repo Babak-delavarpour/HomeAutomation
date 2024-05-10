@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "jxcCtT0S4IyQAJ3xUNVW6+90jA444tzgC6B0K/HkjcY=",
+  "Source": "HomeWebServer",
+  "BasePath": "_content/HomeWebServer",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeWebServer\\wwwroot",
+      "Source": "HomeWebServer",
+      "ContentRoot": "D:\\_githubProjects\\Babak-delavarpour\\HomeAutomation\\HomeWebServer\\HomeWebServer\\wwwroot\\",
+      "BasePath": "_content/HomeWebServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\_githubProjects\\Babak-delavarpour\\HomeAutomation\\HomeWebServer\\HomeWebServer\\wwwroot\\Default.htm",
+      "SourceId": "HomeWebServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\_githubProjects\\Babak-delavarpour\\HomeAutomation\\HomeWebServer\\HomeWebServer\\wwwroot\\",
+      "BasePath": "_content/HomeWebServer",
+      "RelativePath": "Default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Default.htm"
+    }
+  ]
+}

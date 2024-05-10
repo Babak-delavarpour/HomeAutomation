@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\_githubProjects\\Babak-delavarpour\\HomeAutomation\\HomeWebServer\\HomeWebServer\\wwwroot\\Default.htm",
+      "PackagePath": "staticwebassets\\Default.htm"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.HomeWebServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.HomeWebServer.props",
+      "PackagePath": "build\\HomeWebServer.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HomeWebServer.props",
+      "PackagePath": "buildMultiTargeting\\HomeWebServer.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.HomeWebServer.props",
+      "PackagePath": "buildTransitive\\HomeWebServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
