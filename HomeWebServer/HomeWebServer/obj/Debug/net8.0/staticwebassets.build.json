@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "U5PIGBNdOVvi2Sli7mG2PnRktEoKlFh2CSR7L1IAAeI=",
+  "Source": "HomeWebServer",
+  "BasePath": "_content/HomeWebServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HomeWebServer\\wwwroot",
+      "Source": "HomeWebServer",
+      "ContentRoot": "D:\\___My_Github_Repository\\HomeAutomation\\HomeWebServer\\HomeWebServer\\wwwroot\\",
+      "BasePath": "_content/HomeWebServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\___My_Github_Repository\\HomeAutomation\\HomeWebServer\\HomeWebServer\\wwwroot\\Default.htm",
+      "SourceId": "HomeWebServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\___My_Github_Repository\\HomeAutomation\\HomeWebServer\\HomeWebServer\\wwwroot\\",
+      "BasePath": "_content/HomeWebServer",
+      "RelativePath": "Default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Default.htm"
+    }
+  ]
+}

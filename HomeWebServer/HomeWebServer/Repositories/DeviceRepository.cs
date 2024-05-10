@@ -1,5 +1,4 @@
-﻿using HomeWebServer.Data;
-using HomeWebServer.Entities;
+﻿using HomeWebServer.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace HomeWebServer.Repositories
